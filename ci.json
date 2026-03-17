@@ -25,6 +25,16 @@
         "site": true,
         "s3": false
     },
+    "esp32-3248S035R": {
+        "name": "ESP32-3248S035 (3.5\" Resistive)",
+        "site": true,
+        "s3": false
+    },
+    "esp32-3248S035R-V": {
+        "name": "ESP32-3248S035 (3.5\" Resistive) Vertical Orientation",
+        "site": true,
+        "s3": false
+    },
     "esp32-4827S043C-SD": {
         "name": "ESP32-4827S043 (4.3\" 480x270 Capacitive)",
         "site": true,
